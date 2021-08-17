@@ -1,7 +1,7 @@
-# Employee.java Program
+# Employee.java  & Department.java Programs
 
 ## To Run this, clone the repository in Local Machine
 
-### javac Employee.java
+### javac <class-name>.java
 
-### java Employee
+### java <class-name>
